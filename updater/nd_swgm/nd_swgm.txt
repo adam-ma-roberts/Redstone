@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "bb366b4"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_swgm.smx"
+  }
+}

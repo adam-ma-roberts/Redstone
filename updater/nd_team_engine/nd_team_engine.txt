@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "0e86cec"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_team_engine.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "6e91f67"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_adjust_weights.smx"
+  }
+}

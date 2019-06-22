@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "4bb851d"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_teamdiff_display.smx"
+  }
+}

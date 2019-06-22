@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "9d6d75c"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_map_cancel.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "b7bdf50"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_picking_list.smx"
+  }
+}

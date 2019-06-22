@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e196b1c"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_resource_management.smx"
+  }
+}

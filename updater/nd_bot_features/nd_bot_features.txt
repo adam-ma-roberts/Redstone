@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "fe73aca"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_bot_features.smx"
+  }
+}

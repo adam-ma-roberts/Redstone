@@ -1,0 +1,11 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "c7614a6"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_player_speed.smx"
+    "Plugin" "Path_SM/translations/nd_player_speed.phrases.txt"
+  }
+}

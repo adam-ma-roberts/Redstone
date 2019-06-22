@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "2d10744"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_timelimit.smx"
+  }
+}

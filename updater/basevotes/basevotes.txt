@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "ec115e5"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/basevotes.smx"
+  }
+}

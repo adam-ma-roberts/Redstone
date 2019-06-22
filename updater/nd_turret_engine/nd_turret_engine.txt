@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "f809d3e"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_turret_engine.smx"
+  }
+}

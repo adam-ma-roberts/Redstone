@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "f88ed1e"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_map_thresholds.smx"
+  }
+}

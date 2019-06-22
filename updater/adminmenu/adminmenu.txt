@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "71327d7"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/adminmenu.smx"
+  }
+}
